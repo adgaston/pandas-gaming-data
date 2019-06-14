@@ -1,4 +1,4 @@
-# pandas-gaming-data
+# Python Pandas & Gaming Data
 Using Python Pandas to analyze data for a gaming company
 
 Used Jupyter Notebook to create viewable Data Frames & a final report with the following info:
